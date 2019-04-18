@@ -7,9 +7,9 @@ From38to37.pl --chromosome=chromosome --start=start --end=end
 
 From38to37.pl --help
     --chromosome / -c   Chromosome name.
-    --start / -s    Chromosome region start
-    --end / -e  Chromosome region end
-    --help / -h To see this text.
+    --start / -s        Chromosome region start
+    --end / -e          Chromosome region end
+    --help / -h         To see this text.
 ```
 Example usage:
 ```
